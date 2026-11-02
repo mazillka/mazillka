@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mazillka.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
+  <a href="https://mazillka.github.io/resume/"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/andrii-shevchuk-yuhanets/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mazillka?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
 
