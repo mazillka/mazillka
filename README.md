@@ -69,6 +69,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 | Project | What it does |
 |---|---|
 | [Menu-For-Google-Services-Ext](https://github.com/mazillka/Menu-For-Google-Services-Ext) | Quick-access menu for jumping between Google services |
+| [Insta-Save-Ext](https://github.com/mazillka/Insta-Save-Ext) | Save photos and videos from Instagram (archived) |
 | [Threads-Enhancer-Ext](https://github.com/mazillka/Threads-Enhancer-Ext) | Open-in-new-tab, copy-link and back-to-top buttons for Threads |
 | [Sensory-Accessibility-Ext](https://github.com/mazillka/Sensory-Accessibility-Ext) | Sensory accessibility tweaks for any web page |
 | [Browser-Extension-Template](https://github.com/mazillka/Browser-Extension-Template) | Starter template for Chrome / Opera extensions |
