@@ -63,6 +63,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 |---|---|
 | [**deckyhub-plugin**](https://github.com/mazillka/deckyhub-plugin) ⭐ | Browse, install and update 500+ Decky Loader plugins right in Gaming Mode |
 | [deckyhub-registry](https://github.com/mazillka/deckyhub-registry) | The curated plugin list behind DeckyHub's Discover page |
+
 **🧩 Browser extensions** — 300,000+ installs combined
 
 | Project | What it does |
