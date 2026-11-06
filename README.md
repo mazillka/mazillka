@@ -58,7 +58,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 ### 🚀 Projects
 
-**🎮 Steam Deck** — DeckyHub has 2,000+ installs
+**🎮 Steam Deck** — DeckyHub has 2,000+ installs · [deckyhub.com](https://deckyhub.com/)
 
 | Project | What it does |
 |---|---|
