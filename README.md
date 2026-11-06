@@ -84,7 +84,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 | Project | What it does |
 |---|---|
-| [KidoVid](https://github.com/mazillka/kids-friendly-video-player) | Offline video player for kids with parental lock and screen-time limits — on Google Play |
+| [KidoVid](https://github.com/mazillka/kids-friendly-video-player) | Offline video player for kids with parental lock and screen-time limits — on [Google Play](https://play.google.com/store/apps/details?id=com.kidovid.offlinevideoplayer) |
 ### 💼 Experience
 
 | When | Role |
