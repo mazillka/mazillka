@@ -73,7 +73,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 | [Threads-Enhancer-Ext](https://github.com/mazillka/Threads-Enhancer-Ext) | Open-in-new-tab, copy-link and back-to-top buttons for Threads |
 | [Sensory-Accessibility-Ext](https://github.com/mazillka/Sensory-Accessibility-Ext) | Sensory accessibility tweaks for any web page |
 | [Browser-Extension-Template](https://github.com/mazillka/Browser-Extension-Template) | Starter template for Chrome / Opera extensions |
-| [webpack-copy-version-plugin](https://github.com/mazillka/webpack-copy-version-plugin) | Copies the version from `package.json` into `manifest.json` |
+| [webpack-copy-version-plugin](https://github.com/mazillka/webpack-copy-version-plugin) | Copies the version from `package.json` into `manifest.json` — 5,000+ npm downloads |
 
 **🏠 Home Assistant**
 
