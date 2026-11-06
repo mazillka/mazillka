@@ -21,6 +21,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 - 🧩 **300,000+ installs** across my Chrome / Opera extensions
 - 🎮 **DeckyHub** — **2,000+ installs**; browse and install 500+ Steam Deck plugins from Gaming Mode
+- 📦 **webpack-copy-version-plugin** — **5,000+ npm downloads**; open-source build tool for browser extensions
 - 📨 Billing notification app serving **50,000+ customers** by email and SMS (Comporium)
 - 🛡️ Fixed **3,600+ high/medium vulnerabilities** across 26 production apps (GAF)
 - 👥 Led a team of 6 from design to release of video &amp; audio redaction in Motorola Solutions CommandCentral Evidence
