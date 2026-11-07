@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/andrii-shevchuk-yuhanets/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://github.com/mazillka?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/mazillka"><img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a>
+</p>
+
 ---
 
 I've spent 10+ years building backend services in **C# / .NET** and the web front-ends on top of them — from enterprise evidence software at **Motorola Solutions** to the AI quality-control platform **HoneyBrain** at Orange Bees / Kopis. Right now I'm co-founder & CTO of an early-stage SaaS (.NET, React, Azure, Docker, PostgreSQL).
