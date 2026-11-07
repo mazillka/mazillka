@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/mazillka"><img src="https://img.shields.io/badge/Support_%26_Maintenance-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support & Maintenance"></a>
+  <a href="https://ko-fi.com/mazillka"><img src="https://img.shields.io/badge/Support_Development_%26_Maintenance-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support Development & Maintenance"></a>
 </p>
 
 ---
