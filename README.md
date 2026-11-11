@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://mazillka.github.io/resume/"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
-  <a href="https://www.linkedin.com/in/andrii-shevchuk-yuhanets/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://github.com/mazillka?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+  <a href="https://www.linkedin.com/in/andrii-shevchuk-yuhanets/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mazillka?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
 
 <p align="center">
@@ -24,7 +25,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 ### ⚡ Highlights
 
 - 🧩 **300,000+ installs** across my Chrome / Opera extensions
-- 🎮 **DeckyHub** — **2,000+ installs**; browse and install 500+ Steam Deck plugins from Gaming Mode
+- 🎮 **DeckyHub** — **2,000+ installs**; browse and install 600+ Steam Deck plugins from Gaming Mode
 - 📦 **webpack-copy-version-plugin** — **5,000+ npm downloads**; open-source build tool for browser extensions
 - 📨 Billing notification app serving **50,000+ customers** by email and SMS (Comporium)
 - 🛡️ Fixed **3,600+ high/medium vulnerabilities** across 26 production apps (GAF)
@@ -66,8 +67,9 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 | Project | What it does |
 |---|---|
-| [**deckyhub-plugin**](https://github.com/mazillka/deckyhub-plugin) ⭐ | Browse, install and update 500+ Decky Loader plugins right in Gaming Mode |
+| [**deckyhub-plugin**](https://github.com/mazillka/deckyhub-plugin) ⭐ | Browse, install and update 600+ Decky Loader plugins right in Gaming Mode |
 | [deckyhub-registry](https://github.com/mazillka/deckyhub-registry) | The curated plugin list behind DeckyHub's Discover page |
+| [spindeck](https://github.com/mazillka/spindeck) | Rotary-wheel game launcher that replaces the Steam Deck home screen — spin your library on the trackpad |
 
 **🧩 Browser extensions** — 300,000+ installs combined
 
@@ -97,6 +99,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 | Project | What it does |
 |---|---|
 | [KidoVid](https://github.com/mazillka/kids-friendly-video-player) | Offline video player for kids with parental lock and screen-time limits — on [Google Play](https://play.google.com/store/apps/details?id=com.kidovid.offlinevideoplayer) |
+
 ### 💼 Experience
 
 | When | Role |
