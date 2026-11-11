@@ -25,7 +25,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 ### ⚡ Highlights
 
 - 🧩 **300,000+ installs** across my Chrome / Opera extensions
-- 🎮 **DeckyHub** — **2,000+ installs**; browse and install 600+ Steam Deck plugins from Gaming Mode
+- 🎮 **DeckyHub** — **5,400+ downloads**; browse and install 600+ Steam Deck plugins from Gaming Mode
 - 📦 **webpack-copy-version-plugin** — **5,000+ npm downloads**; open-source build tool for browser extensions
 - 📨 Billing notification app serving **50,000+ customers** by email and SMS (Comporium)
 - 🛡️ Fixed **3,600+ high/medium vulnerabilities** across 26 production apps (GAF)
@@ -63,13 +63,12 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 ### 🚀 Projects
 
-**🎮 Steam Deck** — DeckyHub has 2,000+ installs · [deckyhub.com](https://deckyhub.com/)
+**🎮 Steam Deck** — DeckyHub has 5,400+ downloads · [deckyhub.com](https://deckyhub.com/)
 
 | Project | What it does |
 |---|---|
 | [**deckyhub-plugin**](https://github.com/mazillka/deckyhub-plugin) ⭐ | Browse, install and update 600+ Decky Loader plugins right in Gaming Mode |
 | [deckyhub-registry](https://github.com/mazillka/deckyhub-registry) | The curated plugin list behind DeckyHub's Discover page |
-| [spindeck](https://github.com/mazillka/spindeck) | Rotary-wheel game launcher that replaces the Steam Deck home screen — spin your library on the trackpad |
 
 **🧩 Browser extensions** — 300,000+ installs combined
 
