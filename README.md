@@ -25,7 +25,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 ### ⚡ Highlights
 
 - 🧩 **300,000+ installs** across my Chrome / Opera extensions
-- 🎮 **DeckyHub** — **10,000+ downloads**; browse and install 600+ Steam Deck plugins from Gaming Mode
+- 🎮 **DeckyHub** — **10,000+ downloads**; browse and install 1000+ Steam Deck plugins from Gaming Mode
 - 📦 **webpack-copy-version-plugin** — **5,000+ npm downloads**; open-source build tool for browser extensions
 - 📨 Billing notification app serving **50,000+ customers** by email and SMS (Comporium)
 - 🛡️ Fixed **3,600+ high/medium vulnerabilities** across 26 production apps (GAF)
@@ -98,7 +98,7 @@ After hours I ship things people actually install: browser extensions, Steam Dec
 
 | Project | What it does |
 |---|---|
-| [KidoVid](https://github.com/mazillka/kids-friendly-video-player) | Offline video player for kids with parental lock and screen-time limits — on [Google Play](https://play.google.com/store/apps/details?id=com.kidovid.offlinevideoplayer) |
+| [KidoVid](https://play.google.com/store/apps/details?id=com.kidovid.offlinevideoplayer) | Offline video player for kids with parental lock and screen-time limits — on Google Play |
 
 ### 💼 Experience
 
